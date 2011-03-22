@@ -318,7 +318,7 @@ class Programmer implements Runnable {
     else if( output.indexOf("not in sync") != -1 ) { 
       reflashDialog.updateMsg("Programmer sync error. Bad connection?");
     }
-    else if( output.indexOf("Could not find USB device") != -1 ) { 
+    else if( output.indexOf("USB device") != -1 ) { 
       reflashDialog.updateMsg("Could not find USB programmer.");
     }
     else if( output.indexOf("No such file or directory") != -1 ) { 
