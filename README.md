@@ -82,7 +82,7 @@ Because the blue LED of BlinkMs is hooked up to one of the programming lines, it
 
 http://www.youtube.com/watch?v=PMBtjAPBdwI
 
-[![](http://img.youtube.com/vi/PMBtjAPBdwI/0.jpg)](http://www.youtube.com/watch?v=PMBtjAPBdwI)]
+[![](http://img.youtube.com/vi/PMBtjAPBdwI/0.jpg)](http://www.youtube.com/watch?v=PMBtjAPBdwI)
 
 
 ### eof
